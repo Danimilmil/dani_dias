@@ -5,7 +5,7 @@
 ### Estudante de Informática para Web · Tecnologia · Qualidade · Infraestrutura
 
 <p>
-  <a href="">
+  <a href="https://github.com/Danimilmil/dani_dias">
     <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/daniel-dias-37a639375/">
