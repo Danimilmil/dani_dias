@@ -5,13 +5,13 @@
 ### Estudante de Informática para Web · Tecnologia · Qualidade · Infraestrutura
 
 <p>
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="">
     <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/daniel-dias-37a639375/">
     <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="">
     <img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
