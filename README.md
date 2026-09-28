@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/daniel-dias-37a639375/">
     <img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white">
   </a>
-  <a href="">
+  <a href="mailto:ddias6574@gmail.com">
     <img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
