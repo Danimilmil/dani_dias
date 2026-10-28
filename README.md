@@ -1,3 +1,4 @@
+<style>
 /* ==========================================================================
    PERFIL DANIEL DIAS — Tema "NEON CYBERPUNK EDITORIAL"
    Estética: vibrante · magazine digital · grid assimétrico
@@ -593,3 +594,4 @@ button:focus-visible {
 ::-webkit-scrollbar-thumb:hover {
   background: var(--grad-hot);
 }
+   </style>
