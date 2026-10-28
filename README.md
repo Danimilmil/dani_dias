@@ -1,102 +1,55 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:111B42,75:5426A8,100:00D4FF&height=240&section=header&text=DANIEL%20DIAS&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=TECHNOLOGY%20%E2%80%A2%20QUALITY%20%E2%80%A2%20INFRASTRUCTURE&descSize=15&descAlignY=60&animation=fadeIn" />
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&labelColor=0B1020" />
-<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-9B5CFF?style=for-the-badge&labelColor=0B1020" />
-
-**Estudante de Informática para Web · Tecnologia · Qualidade · Infraestrutura**
-
-<a href="https://github.com/Danimilmil/dani_dias"><img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
-<a href="https://www.linkedin.com/in/daniel-dias-37a639375/"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=00E5FF" /></a>
-<a href="mailto:ddias6574@gmail.com"><img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=FF4FD8" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050711,30:101A38,65:32216B,100:00CFFF&text=DANIEL%20DIAS&fontSize=66&fontColor=FFFFFF&fontAlignY=40&desc=ENGINEERING%20MINDSET%20%E2%80%A2%20TECHNOLOGY%20%E2%80%A2%20CONTINUOUS%20GROWTH&descSize=13&descAlignY=61&animation=fadeIn" />
 
 <br/>
 
-<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:9B5CFF,100:FF4FD8&height=3&section=header" />
+<img src="https://img.shields.io/badge/BASED_IN-S%C3%83O_PAULO-111827?style=flat-square&labelColor=080B12&color=26334A" />
+<img src="https://img.shields.io/badge/FOCUS-INFORMATION_TECHNOLOGY-111827?style=flat-square&labelColor=080B12&color=6046C9" />
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS_EVOLVING-111827?style=flat-square&labelColor=080B12&color=007F9E" />
 
-> *“O futuro pertence àqueles que aprendem hoje.”*
+<br/><br/>
 
-</div>
+### Building knowledge. Engineering possibilities.
 
----
+*Estudante de Informática para Web · Tecnologia · Qualidade · Infraestrutura*
 
-## `01 // PROFILE` — Sobre mim
+<br/>
 
-Sou estudante de **Informática para Web na ETEC Cidade Tiradentes**, apaixonado por tecnologia e interessado em compreender como sistemas, aplicações e infraestruturas funcionam.
+<a href="https://github.com/Danimilmil"><img src="https://img.shields.io/badge/GitHub-Explore%20profile-0A0D16?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+<a href="https://www.linkedin.com/in/daniel-dias-37a639375/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A0D16?style=for-the-badge&logo=linkedin&logoColor=62D8FF" /></a>
+<a href="mailto:ddias6574@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0A0D16?style=for-the-badge&logo=gmail&logoColor=B69AFF" /></a>
 
-Meu objetivo é construir uma carreira em TI explorando principalmente **Banco de Dados, Quality Assurance, DevOps, Computação em Nuvem e Cibersegurança**.
+<br/><br/>
 
-Tenho interesse em desenvolver soluções eficientes, melhorar a qualidade dos sistemas e aprender novas tecnologias por meio de projetos práticos.
-
-Atualmente, busco minha **primeira oportunidade profissional na área de TI**, enquanto continuo aprimorando meus conhecimentos.
-
----
-
-## `02 // TECH STACK` — Arsenal tecnológico
-
-<div align="center">
-
-### Desenvolvimento Web
-
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-### Desenvolvimento Mobile
-
-<img src="https://skillicons.dev/icons?i=react" />
-
-### Banco de Dados
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-### Testes e Qualidade
-
-<img src="https://skillicons.dev/icons?i=jest" />
-
-### Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-
-### Sistemas Operacionais
-
-<img src="https://skillicons.dev/icons?i=linux" />
+<img width="75%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00D9FF,50:8067FF,100:00D9FF" />
 
 </div>
 
----
+## 01 — THE PROFILE
 
-## `03 // SPECIALIZATIONS` — Áreas de interesse
+### Curiosity into capability.
+
+Sou estudante de **Informática para Web na ETEC Cidade Tiradentes**, com interesse em tecnologia, qualidade de software, dados e infraestrutura.
+
+Meu objetivo é construir uma carreira sólida em Tecnologia da Informação, desenvolvendo uma visão que vai além do código: compreender sistemas, analisar problemas, automatizar processos e contribuir para soluções confiáveis e eficientes.
+
+Atualmente, busco minha primeira oportunidade profissional em TI e continuo desenvolvendo minhas habilidades por meio de estudos e projetos práticos.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/01-00E5FF?style=flat-square&labelColor=0B1020" /> Banco de Dados
+**01 / CURRENT MINDSET**
 
-SQL, modelagem de dados e organização de informações.
-
-### <img src="https://img.shields.io/badge/02-FF4FD8?style=flat-square&labelColor=0B1020" /> Quality Assurance
-
-Testes de software, automação e qualidade.
-
-### <img src="https://img.shields.io/badge/03-9B5CFF?style=flat-square&labelColor=0B1020" /> DevOps
-
-Infraestrutura, integração e automação de processos.
+Aprender com consistência, praticar com propósito e evoluir a cada projeto.
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/04-00E5FF?style=flat-square&labelColor=0B1020" /> Cloud Computing
+**02 / PROFESSIONAL DIRECTION**
 
-Serviços em nuvem, escalabilidade e infraestrutura.
-
-### <img src="https://img.shields.io/badge/05-FF4FD8?style=flat-square&labelColor=0B1020" /> Cibersegurança
-
-Segurança de sistemas, redes e proteção de dados.
-
-### <img src="https://img.shields.io/badge/06-9B5CFF?style=flat-square&labelColor=0B1020" /> Linux
-
-Sistemas operacionais, terminal e linha de comando.
+Explorar dados, qualidade de software, infraestrutura, nuvem e segurança.
 
 </td>
 </tr>
@@ -104,73 +57,146 @@ Sistemas operacionais, terminal e linha de comando.
 
 ---
 
-## `04 // KNOWLEDGE BASE` — Conhecimentos
-
-| Categoria | Tecnologias e conceitos |
-|---|---|
-| Desenvolvimento Web | HTML, CSS e JavaScript |
-| Mobile | React Native |
-| Testes | Jest e testes automatizados |
-| Banco de Dados | MySQL, SQL e modelagem |
-| Versionamento | Git e GitHub |
-| Sistemas | Linux e terminal |
-
----
-
-## `05 // LEARNING PROTOCOL` — Evolução contínua
+## 02 — TECHNOLOGY STACK
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PHASE_01-BANCO_DE_DADOS-00E5FF?style=for-the-badge&labelColor=0B1020" />
+*Tools are instruments. Problem-solving is the skill.*
 
-<img src="https://img.shields.io/badge/PHASE_02-QUALITY_ASSURANCE-9B5CFF?style=for-the-badge&labelColor=0B1020" />
+<br/>
 
-<img src="https://img.shields.io/badge/PHASE_03-DEVOPS-FF4FD8?style=for-the-badge&labelColor=0B1020" />
+**WEB DEVELOPMENT**
 
-<img src="https://img.shields.io/badge/PHASE_04-CLOUD_COMPUTING-00E5FF?style=for-the-badge&labelColor=0B1020" />
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
-<img src="https://img.shields.io/badge/PHASE_05-CYBERSECURITY-9B5CFF?style=for-the-badge&labelColor=0B1020" />
+<br/>
+
+**MOBILE DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=react&theme=dark" />
+
+<br/>
+
+**DATABASE & SOFTWARE QUALITY**
+
+<img src="https://skillicons.dev/icons?i=mysql,jest&theme=dark" />
+
+<br/>
+
+**DEVELOPER TOOLKIT**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+
+<br/>
+
+**SYSTEMS & INFRASTRUCTURE**
+
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" />
 
 </div>
 
 ---
 
-## `06 // GITHUB ANALYTICS` — Estatísticas
+## 03 — AREAS OF EXPLORATION
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/01-00D9FF?style=flat-square&labelColor=101522" /> Data & Databases
+
+Organização, modelagem e consulta de dados para construir sistemas consistentes.
+
+<br/>
+
+### <img src="https://img.shields.io/badge/02-B69AFF?style=flat-square&labelColor=101522" /> Quality Engineering
+
+Testes de software, automação e busca por aplicações mais confiáveis.
+
+<br/>
+
+### <img src="https://img.shields.io/badge/03-00D9FF?style=flat-square&labelColor=101522" /> DevOps & Infrastructure
+
+Automação, ambientes de execução e integração entre desenvolvimento e operações.
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/04-B69AFF?style=flat-square&labelColor=101522" /> Cloud Computing
+
+Infraestrutura moderna, serviços em nuvem e escalabilidade.
+
+<br/>
+
+### <img src="https://img.shields.io/badge/05-00D9FF?style=flat-square&labelColor=101522" /> Cybersecurity
+
+Proteção de sistemas, segurança da informação e análise de riscos.
+
+<br/>
+
+### <img src="https://img.shields.io/badge/06-B69AFF?style=flat-square&labelColor=101522" /> Linux & Systems
+
+Sistemas operacionais, terminal e fundamentos de infraestrutura.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 04 — LEARNING ROADMAP
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Danimilmil&show_icons=true&hide_border=true&bg_color=0B1020&title_color=00E5FF&icon_color=FF4FD8&text_color=E0E6F0&locale=pt-br" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danimilmil&layout=compact&hide_border=true&bg_color=0B1020&title_color=9B5CFF&text_color=E0E6F0&langs_count=6" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Danimilmil&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" />
+| TRACK | FOCUS |
+|:---|:---|
+| `01` | Banco de dados e SQL |
+| `02` | Testes de software e QA |
+| `03` | Linux e infraestrutura |
+| `04` | DevOps e automação |
+| `05` | Computação em nuvem |
+| `06` | Cibersegurança |
 
 </div>
 
 ---
 
-## `07 // CONNECTION` — Vamos nos conectar?
+## 05 — GITHUB INSIGHTS
 
 <div align="center">
 
-<a href="https://github.com/Danimilmil">
-<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Danimilmil&show_icons=true&hide_border=true&bg_color=080B12&title_color=00D9FF&icon_color=9A7BFF&text_color=DCE5F2&ring_color=00D9FF&locale=pt-br" />
 
-<a href="https://www.linkedin.com/in/daniel-dias-37a639375/">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-9B5CFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1020" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danimilmil&layout=compact&hide_border=true&bg_color=080B12&title_color=9A7BFF&text_color=DCE5F2&langs_count=6" />
 
 <br/><br/>
 
-*“Grandes resultados exigem pequenos esforços diários.”*
+<img src="https://komarev.com/ghpvc/?username=Danimilmil&style=flat-square&color=5141A5&label=PROFILE+VIEWS" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:402080,100:080B18&height=130&section=footer" />
+</div>
 
-**SYSTEM MESSAGE: KEEP EVOLVING**
+---
 
-<sub>Construindo conhecimento · Desenvolvendo soluções · Evoluindo continuamente</sub>
+## 06 — LET'S CONNECT
+
+<div align="center">
+
+Interested in technology, new ideas and opportunities to learn.
+
+<br/>
+
+<a href="https://github.com/Danimilmil"><img src="https://img.shields.io/badge/GITHUB-080B12?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+<a href="https://www.linkedin.com/in/daniel-dias-37a639375/"><img src="https://img.shields.io/badge/LINKEDIN-080B12?style=for-the-badge&logo=linkedin&logoColor=00D9FF" /></a>
+<a href="mailto:ddias6574@gmail.com"><img src="https://img.shields.io/badge/EMAIL-080B12?style=for-the-badge&logo=gmail&logoColor=B69AFF" /></a>
+
+<br/><br/>
+
+*“Consistency turns learning into progress.”*
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00CFFF,50:32216B,100:050711&section=footer" />
+
+<sub>DESIGNED FOR GROWTH · BUILT THROUGH PRACTICE</sub>
 
 </div>
