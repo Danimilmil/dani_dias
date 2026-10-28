@@ -1,95 +1,98 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:14213D,100:2563EB&height=220&section=header&text=Daniel%20Dias&fontSize=56&fontColor=FFFFFF&fontAlignY=42&desc=TECHNOLOGY%20%7C%20DEVELOPMENT%20%7C%20INNOVATION&descSize=15&descAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:080808,50:4A0808,100:990F19&text=DANIEL%20DIAS&fontColor=FFFFFF&fontSize=65&fontAlignY=45&desc=DISCIPLINA%20%7C%20TECNOLOGIA%20%7C%20EVOLU%C3%87%C3%83O&descSize=14&descAlignY=68&animation=fadeIn" />
 
-<br/>
+<img src="https://img.shields.io/badge/武士-SAMURAI%20MINDSET-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-171717?style=for-the-badge&logo=github&logoColor=white" />
 
-<a href="https://github.com/Danimilmil">
-<img src="https://img.shields.io/badge/GitHub-Danimilmil-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Status-Always%20Learning-2563EB?style=for-the-badge&logo=bookstack&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-Information%20Technology-0F766E?style=for-the-badge&logo=target&logoColor=white" />
+### 「 七転び八起き 」
+
+*Caia sete vezes, levante-se oito.*
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## ⛩️ Sobre mim
 
-Sou estudante de **Informática para Web na ETEC Cidade Tiradentes**, apaixonado por tecnologia e pelo desenvolvimento de soluções que unem funcionalidade, organização e inovação.
+Sou estudante de **Informática para Web na ETEC Cidade Tiradentes**, interessado em tecnologia, infraestrutura e desenvolvimento de soluções digitais.
 
-Atualmente, estou expandindo meus conhecimentos em diferentes áreas da Tecnologia da Informação, explorando ferramentas, criando projetos e buscando novos desafios para evoluir profissionalmente.
+Assim como um samurai aperfeiçoa sua técnica com disciplina e prática, busco evoluir continuamente meus conhecimentos e habilidades na área de TI.
+
+- 🗡️ Foco em aprendizado contínuo
+- 💻 Desenvolvimento de projetos acadêmicos e pessoais
+- 🧠 Resolução de problemas e pensamento lógico
+- 🎯 Objetivo: crescer profissionalmente na área de tecnologia
+
+## ⚔️ Arsenal tecnológico
+
+<div align="center">
+
+**DESENVOLVIMENTO**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react" />
+
+**BANCO DE DADOS E FERRAMENTAS**
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode" />
+
+**SISTEMAS E INFRAESTRUTURA**
+
+<img src="https://skillicons.dev/icons?i=linux,docker" />
+
+</div>
+
+## 🏯 Caminho de evolução
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Áreas de interesse
+### 技術 — Técnica
 
 - Banco de Dados
 - Quality Assurance (QA)
-- DevOps e infraestrutura
-- Computação em nuvem
-- Cibersegurança
-- Linux e sistemas operacionais
+- Automação de processos
+- Desenvolvimento de software
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Meu objetivo
+### 戦略 — Estratégia
 
-Construir uma base sólida em TI, desenvolver habilidades técnicas e participar de projetos que proporcionem aprendizado contínuo e crescimento profissional.
+- Computação em nuvem
+- DevOps e infraestrutura
+- Cibersegurança
+- Linux e sistemas operacionais
 
 </td>
 </tr>
 </table>
 
----
-
-## 🛠️ Tecnologias e ferramentas
+## 📊 Meu progresso
 
 <div align="center">
 
-### Desenvolvimento
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Danimilmil&show_icons=true&theme=transparent&title_color=E53935&icon_color=E53935&text_color=CCCCCC&border_color=5A2020&locale=pt-br" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react" />
-
-### Banco de dados e ferramentas
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode,postman" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danimilmil&layout=compact&theme=transparent&title_color=E53935&text_color=CCCCCC&border_color=5A2020&langs_count=6" />
 
 </div>
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Danimilmil&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&rank_icon=github" />
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danimilmil&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Danimilmil&theme=tokyonight&hide_border=true&locale=pt_BR" />
-
-</div>
-
----
-
-## 🌐 Vamos nos conectar?
+## 🏮 Contato
 
 <div align="center">
 
 <a href="https://github.com/Danimilmil">
-<img src="https://img.shields.io/badge/Explore%20my%20GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Danimilmil-8B0000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-*“A evolução começa com a curiosidade e se fortalece com a prática.”*
+*「 継続は力なり 」*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:14213D,100:0B1020&height=90&section=footer" />
+**A persistência é a força.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:080808,50:4A0808,100:990F19&section=footer" />
 
 </div>
