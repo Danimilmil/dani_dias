@@ -1,45 +1,60 @@
 /* ==========================================================================
-   PERFIL DANIEL DIAS — Tema "Dojo Digital"
-   Estética: japonesa minimalista · Panorâmica · Intuitiva
+   PERFIL DANIEL DIAS — Tema "NEON CYBERPUNK EDITORIAL"
+   Estética: vibrante · magazine digital · grid assimétrico
    ========================================================================== */
 
 :root {
-  /* Paleta principal */
-  --bg-deep:      #0f0e0d;
-  --bg-panel:     #1a1816;
-  --bg-soft:      #24201d;
-  --ink:          #f2ece3;
-  --ink-muted:    #b8b0a4;
-  --ink-faint:    #7a7267;
+  /* Fundo — claro com "punch" neon */
+  --bg:            #f5f2ff;
+  --bg-alt:        #ece6ff;
+  --surface:       #ffffff;
+  --surface-2:     #faf7ff;
 
-  /* Cores de acento (inspiradas no vermelho torii + dourado) */
-  --accent-red:   #b8302a;
-  --accent-red-2: #d94a3d;
-  --accent-gold:  #d9a441;
-  --accent-green: #6c8c5a;
+  /* Tinta */
+  --ink:           #0d0620;
+  --ink-soft:      #3a2f5c;
+  --ink-muted:     #6b5f8a;
+  --ink-faint:     #a99fc4;
 
-  /* Bordas e sombras */
-  --line:         rgba(217, 164, 65, 0.18);
-  --line-strong:  rgba(217, 164, 65, 0.35);
-  --glow-red:     0 0 24px rgba(184, 48, 42, 0.35);
-  --glow-gold:    0 0 24px rgba(217, 164, 65, 0.28);
+  /* Neon palette */
+  --neon-pink:     #ff2e88;
+  --neon-cyan:     #00d4ff;
+  --neon-lime:     #b5ff2e;
+  --neon-violet:   #7c3aed;
+  --neon-orange:   #ff6b1a;
+
+  /* Gradientes */
+  --grad-hero:     linear-gradient(135deg, #ff2e88 0%, #7c3aed 50%, #00d4ff 100%);
+  --grad-hot:      linear-gradient(90deg, #ff2e88, #ff6b1a);
+  --grad-cool:     linear-gradient(90deg, #00d4ff, #7c3aed);
+  --grad-lime:     linear-gradient(135deg, #b5ff2e 0%, #00d4ff 100%);
+
+  /* Sombras */
+  --shadow-sm:     0 2px 8px rgba(13, 6, 32, 0.06);
+  --shadow-md:     0 8px 32px rgba(13, 6, 32, 0.10);
+  --shadow-lg:     0 20px 60px rgba(124, 58, 237, 0.18);
+  --shadow-glow:   0 0 32px rgba(255, 46, 136, 0.35);
 
   /* Tipografia */
-  --font-serif:   "Shippori Mincho", "Noto Serif JP", "Georgia", serif;
-  --font-sans:    "Inter", "Noto Sans JP", system-ui, -apple-system, sans-serif;
-  --font-mono:    "JetBrains Mono", "Fira Code", monospace;
+  --font-display:  "Space Grotesk", "Clash Display", "Archivo Black", sans-serif;
+  --font-body:     "Inter", "DM Sans", system-ui, sans-serif;
+  --font-mono:     "IBM Plex Mono", "Space Mono", monospace;
 
-  /* Espaçamento */
-  --space-xs: 0.5rem;
-  --space-sm: 1rem;
-  --space-md: 2rem;
-  --space-lg: 3.5rem;
-  --space-xl: 5rem;
+  /* Espaço */
+  --s1: 0.5rem;
+  --s2: 1rem;
+  --s3: 1.5rem;
+  --s4: 2.5rem;
+  --s5: 4rem;
+  --s6: 6rem;
+
+  /* Radius */
+  --r-sm: 10px;
+  --r-md: 18px;
+  --r-lg: 28px;
+  --r-pill: 999px;
 }
 
-/* --------------------------------------------------------------------------
-   Reset suave
-   -------------------------------------------------------------------------- */
 *,
 *::before,
 *::after {
@@ -49,251 +64,255 @@
 }
 
 /* --------------------------------------------------------------------------
-   Corpo — fundo panorâmico com gradiente sutil e textura
+   Body — fundo claro com grid de pontos sutil e "blobs" neon
    -------------------------------------------------------------------------- */
 body {
-  font-family: var(--font-sans);
+  font-family: var(--font-body);
   color: var(--ink);
-  background: var(--bg-deep);
+  background-color: var(--bg);
   background-image:
-    radial-gradient(ellipse at 20% 0%, rgba(184, 48, 42, 0.10), transparent 55%),
-    radial-gradient(ellipse at 80% 100%, rgba(217, 164, 65, 0.08), transparent 55%),
-    linear-gradient(180deg, #0f0e0d 0%, #14110f 50%, #0f0e0d 100%);
-  line-height: 1.7;
+    radial-gradient(circle at 12% 8%,  rgba(255, 46, 136, 0.18), transparent 42%),
+    radial-gradient(circle at 88% 12%, rgba(0, 212, 255, 0.16),  transparent 40%),
+    radial-gradient(circle at 50% 95%, rgba(181, 255, 46, 0.12), transparent 45%),
+    radial-gradient(rgba(13, 6, 32, 0.06) 1px, transparent 1px);
+  background-size: auto, auto, auto, 22px 22px;
+  background-attachment: fixed;
+  line-height: 1.65;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   min-height: 100vh;
-  padding: 0;
-  margin: 0;
 }
 
 /* --------------------------------------------------------------------------
-   Container principal — largura panorâmica e respiro
+   Container panorâmico
    -------------------------------------------------------------------------- */
 .markdown-body,
 body > div,
 main {
-  max-width: 1080px;
+  max-width: 1160px;
   margin: 0 auto;
-  padding: var(--space-lg) clamp(1rem, 4vw, 3rem);
+  padding: var(--s5) clamp(1.25rem, 4vw, 3rem);
 }
 
 /* --------------------------------------------------------------------------
-   Cabeçalho central (div align="center")
+   HEADER (div align="center")
    -------------------------------------------------------------------------- */
-.markdown-body > div[align="center"],
 div[align="center"] {
   text-align: center;
-  padding: var(--space-lg) 0 var(--space-md);
+  padding: var(--s4) 0 var(--s5);
   position: relative;
 }
 
-/* Ornamento superior — linha dupla com kanji central */
+/* Selo "STUDENT / DEV" no topo */
 div[align="center"]::before {
-  content: "道";
-  display: block;
-  font-family: var(--font-serif);
-  font-size: 1.4rem;
-  color: var(--accent-gold);
-  letter-spacing: 0.6em;
-  margin-bottom: var(--space-sm);
-  opacity: 0.85;
+  content: "◦ PROFILE / 2025 ◦";
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.3em;
+  color: var(--neon-violet);
+  background: var(--surface);
+  padding: 0.5rem 1.2rem;
+  border-radius: var(--r-pill);
+  border: 1px solid rgba(124, 58, 237, 0.25);
+  box-shadow: var(--shadow-sm);
+  margin-bottom: var(--s3);
 }
 
-/* H1 — Nome principal */
+/* H1 — display neon com gradiente */
 h1 {
-  font-family: var(--font-serif);
-  font-size: clamp(2.4rem, 6vw, 4rem);
-  font-weight: 700;
-  letter-spacing: 0.04em;
-  line-height: 1.1;
-  background: linear-gradient(135deg, var(--ink) 0%, var(--accent-gold) 100%);
+  font-family: var(--font-display);
+  font-size: clamp(2.8rem, 8vw, 5.5rem);
+  font-weight: 800;
+  line-height: 0.95;
+  letter-spacing: -0.03em;
+  background: var(--grad-hero);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
-  margin-bottom: var(--space-xs);
-  position: relative;
+  margin-bottom: var(--s2);
+  filter: drop-shadow(0 4px 24px rgba(255, 46, 136, 0.25));
 }
 
-/* Título japonês (h3) */
-h3 {
-  font-family: var(--font-serif);
-  font-size: clamp(1.1rem, 2.2vw, 1.5rem);
-  font-weight: 400;
-  color: var(--accent-red-2);
-  letter-spacing: 0.3em;
-  margin: var(--space-xs) 0 var(--space-sm);
-  text-transform: none;
+/* Subtítulo japonês */
+div[align="center"] h3 {
+  font-family: var(--font-display);
+  font-size: clamp(1.1rem, 2.5vw, 1.6rem);
+  font-weight: 500;
+  color: var(--ink-muted);
+  letter-spacing: 0.5em;
+  text-transform: uppercase;
+  margin-bottom: var(--s3);
 }
 
-/* Parágrafo de subtítulo (bold) */
+/* Tagline */
 div[align="center"] > p > strong {
   display: inline-block;
   font-family: var(--font-mono);
   font-size: 0.85rem;
   font-weight: 500;
-  color: var(--ink-muted);
-  letter-spacing: 0.08em;
-  padding: 0.4rem 1.2rem;
-  border: 1px solid var(--line);
-  border-radius: 999px;
-  background: rgba(26, 24, 22, 0.6);
+  color: var(--ink);
+  background: var(--surface);
+  padding: 0.6rem 1.4rem;
+  border-radius: var(--r-pill);
+  border: 2px solid var(--ink);
+  box-shadow: 4px 4px 0 var(--neon-pink);
+  letter-spacing: 0.02em;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-/* Badges de contato */
+div[align="center"] > p > strong:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 6px 6px 0 var(--neon-cyan);
+}
+
+/* Badges — estilo "chunky" */
 div[align="center"] p a img {
-  transition: transform 0.25s ease, filter 0.25s ease;
-  margin: 0 0.25rem;
+  margin: 0.3rem 0.25rem;
+  transition: transform 0.2s ease, filter 0.2s ease;
+  border-radius: 8px;
 }
 
 div[align="center"] p a:hover img {
-  transform: translateY(-3px) scale(1.05);
-  filter: drop-shadow(0 0 12px rgba(217, 164, 65, 0.5));
+  transform: translateY(-4px) rotate(-2deg);
+  filter: drop-shadow(0 8px 16px rgba(255, 46, 136, 0.4));
 }
 
-/* Citação principal (nanakorobi yaoki) */
+/* Blockquote (nanakorobi) — cartão editorial */
 blockquote {
-  margin: var(--space-md) auto var(--space-sm);
-  padding: var(--space-sm) var(--space-md);
-  max-width: 640px;
-  border-left: 3px solid var(--accent-red);
-  border-right: 3px solid var(--accent-red);
-  background: linear-gradient(90deg,
-    transparent 0%,
-    rgba(184, 48, 42, 0.08) 50%,
-    transparent 100%);
-  font-family: var(--font-serif);
-  font-size: 1.15rem;
+  margin: var(--s4) auto var(--s2);
+  max-width: 720px;
+  padding: var(--s3) var(--s4);
+  background: var(--surface);
+  border: 3px solid var(--ink);
+  border-radius: var(--r-lg);
+  box-shadow: 8px 8px 0 var(--neon-violet), 16px 16px 0 rgba(0, 212, 255, 0.3);
+  font-family: var(--font-display);
+  font-size: clamp(1.1rem, 2.4vw, 1.4rem);
+  font-weight: 600;
   color: var(--ink);
   text-align: center;
-  border-radius: 6px;
   position: relative;
+  transform: rotate(-0.6deg);
+  transition: transform 0.3s ease;
 }
 
-blockquote::before,
-blockquote::after {
-  content: "";
-  position: absolute;
-  width: 8px;
-  height: 8px;
-  background: var(--accent-gold);
-  transform: rotate(45deg);
-  top: 50%;
-  margin-top: -4px;
+blockquote:hover {
+  transform: rotate(0deg) scale(1.01);
 }
-blockquote::before { left: -5px; }
-blockquote::after  { right: -5px; }
+
+blockquote::before {
+  content: "❝";
+  position: absolute;
+  top: -1.5rem;
+  left: 2rem;
+  font-size: 4rem;
+  color: var(--neon-pink);
+  line-height: 1;
+}
 
 blockquote em {
   display: block;
+  font-family: var(--font-mono);
   font-style: normal;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
+  font-weight: 400;
   color: var(--ink-muted);
-  margin-top: 0.4rem;
-  letter-spacing: 0.04em;
+  margin-top: var(--s1);
+  letter-spacing: 0.05em;
 }
 
 /* --------------------------------------------------------------------------
-   Linhas divisórias (--- → hr)
+   Divisórias — barras neon
    -------------------------------------------------------------------------- */
 hr {
   border: none;
-  height: 1px;
-  background: linear-gradient(90deg,
-    transparent 0%,
-    var(--line-strong) 50%,
-    transparent 100%);
-  margin: var(--space-lg) 0;
-  position: relative;
-}
-
-hr::after {
-  content: "◆";
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: var(--accent-gold);
-  background: var(--bg-deep);
-  padding: 0 0.8rem;
-  font-size: 0.7rem;
-  letter-spacing: 0;
+  height: 3px;
+  background: var(--grad-hot);
+  border-radius: var(--r-pill);
+  margin: var(--s5) 0;
+  width: 100%;
+  max-width: 120px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 0 20px rgba(255, 46, 136, 0.5);
 }
 
 /* --------------------------------------------------------------------------
-   Cabeçalhos de seção (h2) — com numeração kanji
+   H2 — display com número neon em bloco
    -------------------------------------------------------------------------- */
 h2 {
-  font-family: var(--font-serif);
-  font-size: clamp(1.3rem, 3vw, 1.8rem);
-  font-weight: 600;
+  font-family: var(--font-display);
+  font-size: clamp(1.6rem, 4vw, 2.4rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
   color: var(--ink);
-  letter-spacing: 0.06em;
-  margin-bottom: var(--space-md);
-  padding-bottom: var(--space-xs);
-  border-bottom: 1px solid var(--line);
+  margin-bottom: var(--s4);
+  line-height: 1.1;
   display: flex;
   align-items: center;
-  gap: 0.6rem;
+  gap: var(--s2);
 }
 
 h2::before {
   content: "";
-  width: 6px;
-  height: 1.5rem;
-  background: linear-gradient(180deg, var(--accent-red) 0%, var(--accent-gold) 100%);
-  border-radius: 2px;
-  box-shadow: var(--glow-red);
+  width: 12px;
+  height: 2.4rem;
+  background: var(--grad-hero);
+  border-radius: 4px;
+  box-shadow: 0 0 20px rgba(255, 46, 136, 0.5);
+  flex-shrink: 0;
 }
 
-/* Parágrafos de conteúdo */
+/* Parágrafos */
 p {
-  color: var(--ink-muted);
-  margin-bottom: var(--space-sm);
-  font-size: 1rem;
-  max-width: 75ch;
+  color: var(--ink-soft);
+  max-width: 72ch;
+  margin-bottom: var(--s2);
+  font-size: 1.02rem;
 }
 
 p strong {
-  color: var(--accent-gold);
-  font-weight: 600;
+  color: var(--neon-violet);
+  font-weight: 700;
+  background: linear-gradient(180deg, transparent 65%, rgba(181, 255, 46, 0.5) 65%);
+  padding: 0 2px;
 }
 
 /* --------------------------------------------------------------------------
-   TABELAS — estilo panorâmico de "dojo"
+   TABELAS — cards flutuantes com cantos coloridos
    -------------------------------------------------------------------------- */
 table {
   width: 100%;
   border-collapse: separate;
   border-spacing: 0;
-  margin: var(--space-md) 0;
-  background: var(--bg-panel);
-  border: 1px solid var(--line);
-  border-radius: 12px;
+  margin: var(--s4) 0;
+  background: var(--surface);
+  border-radius: var(--r-lg);
   overflow: hidden;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35);
-}
-
-table thead {
-  background: linear-gradient(180deg, var(--bg-soft) 0%, var(--bg-panel) 100%);
+  box-shadow: var(--shadow-md);
+  border: 1px solid rgba(13, 6, 32, 0.06);
 }
 
 table th {
-  font-family: var(--font-serif);
-  font-size: 0.95rem;
-  font-weight: 600;
-  color: var(--accent-gold);
+  font-family: var(--font-display);
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--ink);
+  background: var(--bg-alt);
   text-align: left;
-  padding: var(--space-sm) var(--space-md);
-  border-bottom: 1px solid var(--line-strong);
-  letter-spacing: 0.04em;
+  padding: var(--s2) var(--s3);
+  border-bottom: 2px solid var(--ink);
 }
 
 table td {
-  padding: var(--space-sm) var(--space-md);
-  color: var(--ink-muted);
-  font-size: 0.95rem;
-  border-bottom: 1px solid rgba(217, 164, 65, 0.08);
+  padding: var(--s2) var(--s3);
+  color: var(--ink-soft);
+  font-size: 0.97rem;
+  border-bottom: 1px solid rgba(13, 6, 32, 0.06);
   vertical-align: middle;
 }
 
@@ -301,173 +320,206 @@ table tr:last-child td {
   border-bottom: none;
 }
 
+table tr {
+  transition: background 0.2s ease;
+}
+
 table tr:hover td {
-  background: rgba(184, 48, 42, 0.06);
-  color: var(--ink);
-  transition: background 0.2s ease, color 0.2s ease;
+  background: var(--surface-2);
 }
 
 table strong {
   color: var(--ink);
-  font-weight: 600;
+  font-weight: 700;
 }
 
-/* Ícones (skillicons) alinhados */
 table img {
-  display: inline-block;
-  vertical-align: middle;
   height: 32px;
+  vertical-align: middle;
   margin-right: 4px;
+  transition: transform 0.2s ease;
+}
+
+table tr:hover img {
+  transform: scale(1.1);
 }
 
 /* --------------------------------------------------------------------------
-   TABELA DE ÁREAS DE INTERESSE — cards panorâmicos
+   TABELA DE ÁREAS — cards neon interativos
    -------------------------------------------------------------------------- */
 table td[align="center"] {
-  padding: var(--space-md) var(--space-sm);
+  padding: var(--s4) var(--s2);
   text-align: center;
-  font-size: 1.6rem;
-  line-height: 1.4;
-  border-right: 1px solid rgba(217, 164, 65, 0.08);
-  transition: transform 0.25s ease, background 0.25s ease;
+  font-size: 2rem;
+  line-height: 1.3;
+  transition: all 0.25s cubic-bezier(0.34, 1.56, 0.64, 1);
+  cursor: default;
+  position: relative;
 }
 
-table td[align="center"]:last-child {
-  border-right: none;
-}
-
-table td[align="center"]:hover {
-  background: linear-gradient(180deg,
-    rgba(184, 48, 42, 0.08) 0%,
-    rgba(217, 164, 65, 0.05) 100%);
-  transform: translateY(-2px);
-}
+table td[align="center"]:nth-child(1):hover { background: linear-gradient(180deg, transparent, rgba(255, 46, 136, 0.15)); }
+table td[align="center"]:nth-child(2):hover { background: linear-gradient(180deg, transparent, rgba(0, 212, 255, 0.15)); }
+table td[align="center"]:nth-child(3):hover { background: linear-gradient(180deg, transparent, rgba(181, 255, 46, 0.20)); }
+table td[align="center"]:nth-child(4):hover { background: linear-gradient(180deg, transparent, rgba(124, 58, 237, 0.15)); }
+table td[align="center"]:nth-child(5):hover { background: linear-gradient(180deg, transparent, rgba(255, 107, 26, 0.15)); }
 
 table td[align="center"] strong {
   display: block;
-  font-family: var(--font-serif);
-  font-size: 1rem;
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  font-weight: 700;
   color: var(--ink);
-  margin-top: 0.5rem;
-  letter-spacing: 0.02em;
+  margin-top: var(--s1);
+  letter-spacing: -0.01em;
 }
 
 table td[align="center"] sub {
   display: block;
-  font-family: var(--font-serif);
-  font-size: 0.75rem;
-  color: var(--accent-red-2);
-  letter-spacing: 0.15em;
-  margin-top: 0.2rem;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--ink-faint);
+  letter-spacing: 0.1em;
+  margin-top: 2px;
   bottom: 0;
+  text-transform: uppercase;
 }
 
 /* --------------------------------------------------------------------------
-   BLOCO DE CÓDIGO — trilha de estudo (fluxo vertical)
+   BLOCO DE CÓDIGO — terminal "editorial"
    -------------------------------------------------------------------------- */
-pre,
-code {
+pre {
   font-family: var(--font-mono);
   font-size: 0.9rem;
-}
-
-pre {
-  background: linear-gradient(180deg, var(--bg-panel) 0%, var(--bg-deep) 100%);
-  border: 1px solid var(--line);
-  border-left: 4px solid var(--accent-red);
-  border-radius: 10px;
-  padding: var(--space-md);
+  background: #0d0620;
+  color: var(--neon-lime);
+  border-radius: var(--r-md);
+  padding: var(--s3) var(--s4);
+  margin: var(--s4) 0;
   overflow-x: auto;
-  margin: var(--space-md) 0;
   position: relative;
-  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.4);
+  box-shadow: var(--shadow-lg), inset 0 0 60px rgba(0, 212, 255, 0.08);
+  border: 1px solid rgba(0, 212, 255, 0.2);
+  line-height: 2;
 }
 
+/* Barra de "window controls" */
 pre::before {
-  content: "▸ trilha";
-  position: absolute;
-  top: 0.6rem;
-  right: 1rem;
-  font-size: 0.65rem;
-  color: var(--accent-gold);
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
-  opacity: 0.7;
+  content: "● ● ●";
+  display: block;
+  color: var(--neon-pink);
+  font-size: 0.7rem;
+  letter-spacing: 0.5em;
+  margin-bottom: var(--s2);
+  opacity: 0.9;
 }
 
 pre code {
-  color: var(--accent-gold);
-  line-height: 1.9;
-  display: block;
+  color: inherit;
+  background: transparent;
+  padding: 0;
   white-space: pre;
+  display: block;
+}
+
+code {
+  font-family: var(--font-mono);
+  background: rgba(124, 58, 237, 0.1);
+  color: var(--neon-violet);
+  padding: 0.15em 0.45em;
+  border-radius: 6px;
+  font-size: 0.9em;
 }
 
 /* --------------------------------------------------------------------------
-   Citação final (一日一歩)
+   Contador de visitas
    -------------------------------------------------------------------------- */
-div[align="center"] h3:last-of-type,
-div[align="center"] em:last-of-type {
-  color: var(--accent-gold);
-}
-
-/* Contador de visitas */
-div[align="center"] img[alt*="Visitas"],
 div[align="center"] img[src*="komarev"] {
-  margin-top: var(--space-md);
-  border-radius: 6px;
-  filter: brightness(0.95) contrast(1.05);
+  margin-top: var(--s4);
+  border-radius: var(--r-pill);
+  box-shadow: var(--shadow-sm);
+  filter: saturate(1.2);
 }
 
 /* --------------------------------------------------------------------------
    Links
    -------------------------------------------------------------------------- */
 a {
-  color: var(--accent-gold);
+  color: var(--neon-violet);
   text-decoration: none;
-  transition: color 0.2s ease, text-shadow 0.2s ease;
+  font-weight: 600;
+  position: relative;
+  transition: color 0.2s ease;
+}
+
+a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 100%;
+  height: 2px;
+  background: var(--grad-hot);
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 0.3s ease;
 }
 
 a:hover {
-  color: var(--accent-red-2);
-  text-shadow: 0 0 12px rgba(184, 48, 42, 0.5);
+  color: var(--neon-pink);
+}
+
+a:hover::after {
+  transform: scaleX(1);
+  transform-origin: left;
 }
 
 /* --------------------------------------------------------------------------
-   Responsividade — mobile primeiro
+   Bloco final (一日一歩)
    -------------------------------------------------------------------------- */
-@media (max-width: 768px) {
+div[align="center"] h3:last-of-type {
+  font-family: var(--font-display);
+  font-size: clamp(1.4rem, 3vw, 2rem);
+  color: var(--ink);
+  letter-spacing: 0.2em;
+  margin-top: var(--s4);
+}
+
+div[align="center"] em:last-of-type {
+  font-family: var(--font-mono);
+  color: var(--ink-muted);
+  font-size: 0.85rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
+
+/* --------------------------------------------------------------------------
+   Responsivo
+   -------------------------------------------------------------------------- */
+@media (max-width: 820px) {
   .markdown-body,
   body > div,
   main {
-    padding: var(--space-md) var(--space-sm);
+    padding: var(--s4) var(--s2);
   }
 
   h1 {
-    font-size: 2.2rem;
-  }
-
-  h2 {
-    font-size: 1.2rem;
+    font-size: clamp(2rem, 9vw, 3rem);
   }
 
   blockquote {
-    font-size: 1rem;
-    padding: var(--space-sm);
-  }
-
-  table {
-    font-size: 0.85rem;
+    padding: var(--s2) var(--s3);
+    box-shadow: 6px 6px 0 var(--neon-violet), 10px 10px 0 rgba(0, 212, 255, 0.3);
   }
 
   table th,
   table td {
-    padding: 0.6rem 0.8rem;
+    padding: 0.75rem 0.9rem;
+    font-size: 0.88rem;
   }
 
-  /* Em mobile, tabela de áreas vira grade */
   table td[align="center"] {
-    padding: var(--space-sm) 0.4rem;
-    font-size: 1.3rem;
+    padding: var(--s3) 0.5rem;
+    font-size: 1.5rem;
   }
 
   table td[align="center"] strong {
@@ -475,24 +527,40 @@ a:hover {
   }
 }
 
-@media (max-width: 480px) {
-  h1 {
-    font-size: 1.8rem;
+@media (max-width: 520px) {
+  h2 {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--s1);
   }
 
-  div[align="center"]::before {
-    font-size: 1rem;
-    letter-spacing: 0.4em;
+  h2::before {
+    width: 40px;
+    height: 6px;
   }
 
-  /* Oculta sub-rótulos em telas muito pequenas */
+  blockquote::before {
+    font-size: 2.5rem;
+    top: -0.8rem;
+    left: 1rem;
+  }
+
   table td[align="center"] sub {
     display: none;
+  }
+
+  /* Áreas em mobile: empilha em grid 2 colunas */
+  table td[align="center"] {
+    display: inline-block;
+    width: 48%;
+    margin: 1%;
+    border-radius: var(--r-md);
+    background: var(--surface-2);
   }
 }
 
 /* --------------------------------------------------------------------------
-   Acessibilidade — preferência por menos movimento
+   Acessibilidade
    -------------------------------------------------------------------------- */
 @media (prefers-reduced-motion: reduce) {
   *,
@@ -503,29 +571,25 @@ a:hover {
   }
 }
 
-/* Foco visível para navegação por teclado */
 a:focus-visible,
 button:focus-visible {
-  outline: 2px solid var(--accent-gold);
+  outline: 3px solid var(--neon-cyan);
   outline-offset: 3px;
   border-radius: 4px;
 }
 
-/* --------------------------------------------------------------------------
-   Scrollbar personalizada (WebKit)
-   -------------------------------------------------------------------------- */
+/* Scrollbar — trilho claro, polegar neon */
 ::-webkit-scrollbar {
-  width: 10px;
-  height: 10px;
+  width: 12px;
 }
 ::-webkit-scrollbar-track {
-  background: var(--bg-deep);
+  background: var(--bg-alt);
 }
 ::-webkit-scrollbar-thumb {
-  background: linear-gradient(180deg, var(--accent-red) 0%, var(--accent-gold) 100%);
-  border-radius: 6px;
-  border: 2px solid var(--bg-deep);
+  background: var(--grad-hero);
+  border-radius: var(--r-pill);
+  border: 3px solid var(--bg-alt);
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(180deg, var(--accent-red-2) 0%, var(--accent-gold) 100%);
+  background: var(--grad-hot);
 }
