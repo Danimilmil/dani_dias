@@ -14,14 +14,14 @@
 
 <br/>
 
-<!-- BADGES DE STATUS (ESTILO OUTLINE) -->
+<!-- BADGES DE STATUS -->
 <img src="https://img.shields.io/badge/●_ONLINE-0D1117?style=for-the-badge&labelColor=0D1117&color=00E5FF"/>
 <img src="https://img.shields.io/badge/●_OPEN_TO_COLLAB-0D1117?style=for-the-badge&labelColor=0D1117&color=00E5FF"/>
 <img src="https://img.shields.io/badge/📍_Brasil-0D1117?style=for-the-badge&labelColor=0D1117&color=00E5FF"/>
 
 <br/><br/>
 
-<!-- CONTADORES (ESTILO OUTLINE) -->
+<!-- CONTADORES -->
 <a href="https://github.com/Danimilmil?tab=followers">
   <img src="https://img.shields.io/github/followers/Danimilmil?label=Seguidores&style=for-the-badge&color=00E5FF&labelColor=0D1117"/>
 </a>
@@ -34,7 +34,9 @@
 <!-- ═══════════════ SOBRE ═══════════════ -->
 
 ## 💫 Sobre
-<sub>quem está por trás do código</sub>
+<code style="color: #00E5FF; font-family: 'JetBrains Mono', monospace; font-size: 13px;">// quem está por trás do código</code>
+
+<br/><br/>
 
 > **Desenvolvedor em construção. Curioso por padrão.**
 
@@ -49,7 +51,9 @@ Gosto de resolver problemas, entender como as coisas funcionam por baixo do cap�
 <!-- ═══════════════ STACK ═══════════════ -->
 
 ## 🛠️ Stack
-<sub>ferramentas do dia a dia</sub>
+<code style="color: #00E5FF; font-family: 'JetBrains Mono', monospace; font-size: 13px;">// ferramentas do dia a dia</code>
+
+<br/><br/>
 
 <div align="center">
 
@@ -62,7 +66,9 @@ Gosto de resolver problemas, entender como as coisas funcionam por baixo do cap�
 <!-- ═══════════════ STATS ═══════════════ -->
 
 ## 📊 GitHub Stats
-<sub>números que contam a história</sub>
+<code style="color: #00E5FF; font-family: 'JetBrains Mono', monospace; font-size: 13px;">// números que contam a história</code>
+
+<br/><br/>
 
 <div align="center">
 
@@ -80,7 +86,9 @@ Gosto de resolver problemas, entender como as coisas funcionam por baixo do cap�
 <!-- ═══════════════ ROADMAP ═══════════════ -->
 
 ## 🚀 Roadmap
-<sub>para onde estou indo</sub>
+<code style="color: #00E5FF; font-family: 'JetBrains Mono', monospace; font-size: 13px;">// para onde estou indo</code>
+
+<br/><br/>
 
 | 🎯 Status | 📚 O que estou fazendo |
 |:---:|:---|
@@ -94,7 +102,9 @@ Gosto de resolver problemas, entender como as coisas funcionam por baixo do cap�
 <!-- ═══════════════ CONECTAR ═══════════════ -->
 
 ## 📫 Conectar
-<sub>vamos trocar ideia</sub>
+<code style="color: #00E5FF; font-family: 'JetBrains Mono', monospace; font-size: 13px;">// vamos trocar ideia</code>
+
+<br/><br/>
 
 <div align="center">
 
@@ -116,3 +126,7 @@ Gosto de resolver problemas, entender como as coisas funcionam por baixo do cap�
 <!-- ═══════════════ FOOTER ═══════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,40:0A4A5C,100:0D1117&height=120&section=footer" width="100%"/>
+
+<div align="center">
+  <code style="color: #00E5FF; font-family: 'JetBrains Mono', monospace; font-size: 13px;">código • café • curiosidade</code>
+</div>
