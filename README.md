@@ -101,6 +101,8 @@ Gosto de resolver problemas, entender como as coisas funcionam por baixo do cap�
 
 <!-- ═══════════════ CONECTAR ═══════════════ -->
 
+<!-- ═══════════════ CONECTAR ═══════════════ -->
+
 ## 📫 Conectar
 <code style="color: #00E5FF; font-family: 'JetBrains Mono', monospace; font-size: 13px;">// vamos trocar ideia</code>
 
@@ -112,9 +114,9 @@ Gosto de resolver problemas, entender como as coisas funcionam por baixo do cap�
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 <a href="https://www.linkedin.com/in/daniel-dias-37a639375/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
-<a href="mailto:ddias6574@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ddias6574@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
 </a>
 <a href="https://www.instagram.com/daniels.dias6/">
