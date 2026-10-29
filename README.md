@@ -14,17 +14,19 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/ONLINE-0D1117?style=flat-square&logoColor=00E5FF&color=00E5FF&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/OPEN_TO_COLLAB-0D1117?style=flat-square&logoColor=00E5FF&color=00E5FF&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Brasil-0D1117?style=flat-square&logoColor=00E5FF&color=00E5FF&labelColor=0D1117"/>
+<!-- BADGES DE STATUS (ESTILO OUTLINE) -->
+<img src="https://img.shields.io/badge/●_ONLINE-0D1117?style=for-the-badge&labelColor=0D1117&color=00E5FF"/>
+<img src="https://img.shields.io/badge/●_OPEN_TO_COLLAB-0D1117?style=for-the-badge&labelColor=0D1117&color=00E5FF"/>
+<img src="https://img.shields.io/badge/📍_Brasil-0D1117?style=for-the-badge&labelColor=0D1117&color=00E5FF"/>
 
 <br/><br/>
 
+<!-- CONTADORES (ESTILO OUTLINE) -->
 <a href="https://github.com/Danimilmil?tab=followers">
-  <img src="https://img.shields.io/github/followers/Danimilmil?label=Seguidores&style=flat-square&color=00E5FF&labelColor=0D1117"/>
+  <img src="https://img.shields.io/github/followers/Danimilmil?label=Seguidores&style=for-the-badge&color=00E5FF&labelColor=0D1117"/>
 </a>
 <a href="https://github.com/Danimilmil">
-  <img src="https://komarev.com/ghpvc/?username=Danimilmil&label=Visitas&color=00E5FF&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=Danimilmil&label=Visitas&color=00E5FF&style=for-the-badge"/>
 </a>
 
 </div>
@@ -114,7 +116,3 @@ Gosto de resolver problemas, entender como as coisas funcionam por baixo do cap�
 <!-- ═══════════════ FOOTER ═══════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,40:0A4A5C,100:0D1117&height=120&section=footer" width="100%"/>
-
-<div align="center">
-  <sub><code>código • café • curiosidade</code></sub>
-</div>
