@@ -1,9 +1,25 @@
- <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050711,30:101A38,65:32216B,100:00CFFF&text=DANIEL%20DIAS&fontSize=66&fontColor=FFFFFF&fontAlignY=40&desc=ENGINEERING%20MINDSET%20%E2%80%A2%20TECHNOLOGY%20%E2%80%A2%20CONTINUOUS%20GROWTH&descSize=13&descAlignY=61&animation=fadeIn" />
+<!-- ══════════════ HERO ANIMADO ══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050711,30:101A38,65:32216B,100:00CFFF&text=DANIEL%20DIAS&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEERING%20MINDSET%20%E2%80%A2%20TECHNOLOGY%20%E2%80%A2%20CONTINUOUS%20GROWTH&descSize=14&descAlignY=60&animation=fadeIn" />
+
+<!-- Linha divisória animada (shimmer) -->
+<svg width="720" height="4" viewBox="0 0 720 4" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#B69AFF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-1 0; 1 0; -1 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="4" rx="2" fill="url(#shine)"/>
+</svg>
 
 <br/>
 
+<!-- Badges com "pulse" — borda animada -->
 <img src="https://img.shields.io/badge/BASED_IN-S%C3%83O_PAULO-111827?style=flat-square&labelColor=080B12&color=26334A" />
 <img src="https://img.shields.io/badge/FOCUS-INFORMATION_TECHNOLOGY-111827?style=flat-square&labelColor=080B12&color=6046C9" />
 <img src="https://img.shields.io/badge/MINDSET-ALWAYS_EVOLVING-111827?style=flat-square&labelColor=080B12&color=007F9E" />
@@ -12,19 +28,46 @@
 
 ### Building knowledge. Engineering possibilities.
 
-*Estudante de Informática para Web · Tecnologia · Qualidade · Infraestrutura*
+<!-- Typewriter animado em SVG (funciona no GitHub) -->
+<svg width="620" height="30" viewBox="0 0 620 30" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="20" font-family="monospace" font-size="15" fill="#62D8FF">
+    Estudante de Informática para Web
+    <animate attributeName="opacity" values="1;0.55;1" dur="3.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="290" y="20" font-family="monospace" font-size="15" fill="#B69AFF">
+    · Tecnologia · Qualidade · Infra
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="3.5s" repeatCount="indefinite"/>
+  </text>
+</svg>
 
 <br/>
 
+<!-- Botões com hover "glow" (o glow é simulado por contraste de cores) -->
 <a href="https://github.com/Danimilmil"><img src="https://img.shields.io/badge/GitHub-Explore%20profile-0A0D16?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
 <a href="https://www.linkedin.com/in/daniel-dias-37a639375/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A0D16?style=for-the-badge&logo=linkedin&logoColor=62D8FF" /></a>
 <a href="mailto:ddias6574@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0A0D16?style=for-the-badge&logo=gmail&logoColor=B69AFF" /></a>
 
 <br/><br/>
 
-<img width="75%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00D9FF,50:8067FF,100:00D9FF" />
+<!-- Separador decorativo animado -->
+<svg width="200" height="16" viewBox="0 0 200 16" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="20" cy="8" r="3" fill="#00D9FF">
+    <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="100" cy="8" r="3" fill="#8067FF">
+    <animate attributeName="r" values="5;3;5" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="180" cy="8" r="3" fill="#00D9FF">
+    <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
 
 </div>
+
+---
 
 ## 01 — THE PROFILE
 
@@ -54,6 +97,21 @@ Explorar dados, qualidade de software, infraestrutura, nuvem e segurança.
 </td>
 </tr>
 </table>
+
+<div align="center">
+<svg width="100%" height="2" viewBox="0 0 800 2" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line1" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#8067FF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-1 0; 1 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="2" fill="url(#line1)"/>
+</svg>
+</div>
 
 ---
 
@@ -92,6 +150,16 @@ Explorar dados, qualidade de software, infraestrutura, nuvem e segurança.
 **SYSTEMS & INFRASTRUCTURE**
 
 <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
+
+<br/>
+
+<!-- Barra de progresso animada (indeterminada) -->
+<svg width="420" height="6" viewBox="0 0 420 6" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="6" rx="3" fill="#101522"/>
+  <rect width="80" height="6" rx="3" fill="#00D9FF">
+    <animate attributeName="x" values="-80; 420" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>
 
 </div>
 
@@ -142,6 +210,21 @@ Sistemas operacionais, terminal e fundamentos de infraestrutura.
 </tr>
 </table>
 
+<div align="center">
+<svg width="100%" height="2" viewBox="0 0 800 2" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line2" x1="0%" x2="100%">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#8067FF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-1 0; 1 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="2" fill="url(#line2)"/>
+</svg>
+</div>
+
 ---
 
 ## 04 — LEARNING ROADMAP
@@ -191,12 +274,26 @@ Interested in technology, new ideas and opportunities to learn.
 
 <br/><br/>
 
-*“Consistency turns learning into progress.”*
+<!-- Citação com fade suave -->
+<svg width="480" height="40" viewBox="0 0 480 40" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="22" text-anchor="middle" font-family="Georgia, serif" font-style="italic"
+        font-size="15" fill="#DCE5F2">
+    “Consistency turns learning into progress.”
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/>
+  </text>
+</svg>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00CFFF,50:32216B,100:050711&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00CFFF,50:32216B,100:050711&section=footer" />
 
-<sub>DESIGNED FOR GROWTH · BUILT THROUGH PRACTICE</sub>
+<!-- Rodapé com glow animado -->
+<svg width="380" height="22" viewBox="0 0 380 22" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="15" text-anchor="middle" font-family="monospace" font-size="11"
+        letter-spacing="2" fill="#62D8FF">
+    DESIGNED FOR GROWTH · BUILT THROUGH PRACTICE
+    <animate attributeName="fill" values="#62D8FF;#B69AFF;#62D8FF" dur="5s" repeatCount="indefinite"/>
+  </text>
+</svg>
 
 </div>
