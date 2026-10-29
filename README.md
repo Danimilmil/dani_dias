@@ -117,7 +117,7 @@ Gosto de resolver problemas, entender como as coisas funcionam por baixo do cap√
 <a href="mailto:ddias6574@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
 </a>
-<a href="https://www.instagram.com/SEU_USUARIO/">
+<a href="https://www.instagram.com/daniels.dias6/">
   <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00E5FF"/>
 </a>
 
