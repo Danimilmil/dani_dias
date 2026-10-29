@@ -14,9 +14,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/●_ONLINE-00E5FF?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/●_OPEN_TO_COLLAB-00E5FF?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/📍_Brasil-00E5FF?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/ONLINE-0D1117?style=flat-square&logoColor=00E5FF&color=00E5FF&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/OPEN_TO_COLLAB-0D1117?style=flat-square&logoColor=00E5FF&color=00E5FF&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Brasil-0D1117?style=flat-square&logoColor=00E5FF&color=00E5FF&labelColor=0D1117"/>
 
 <br/><br/>
 
@@ -71,17 +71,6 @@ Gosto de resolver problemas, entender como as coisas funcionam por baixo do cap�
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danimilmil&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&dates=8B949E"/>
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00E5FF&height=2&width=100%"/>
-
-<!-- ═══════════════ ATIVIDADE ═══════════════ -->
-
-## 🐍 Contribuições
-<sub>um commit de cada vez</sub>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Danimilmil/Danimilmil/output/github-snake-dark.svg" width="95%" alt="snake"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00E5FF&height=2&width=100%"/>
