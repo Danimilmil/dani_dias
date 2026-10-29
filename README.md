@@ -127,6 +127,4 @@ Gosto de resolver problemas, entender como as coisas funcionam por baixo do cap�
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,40:0A4A5C,100:0D1117&height=120&section=footer" width="100%"/>
 
-<div align="center">
-  <code style="color: #00E5FF; font-family: 'JetBrains Mono', monospace; font-size: 13px;">código • café • curiosidade</code>
-</div>
+
