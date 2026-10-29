@@ -1,40 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════
-     BANNER INICIAL — ESTILO TERMINAL / HERO
-════════════════════════════════════════════════════════════ -->
-<div align="center">
-
-<a href="https://github.com/Danimilmil">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=900&height=90&lines=%24+whoami;Daniel+Dias;%24+status;building+%26+learning;%24+_&cursor=block" alt="Hero Terminal"/>
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/●_ONLINE-00E5FF?style=flat-square&labelColor=0D1117" height="22"/>
-<img src="https://img.shields.io/badge/●_OPEN_TO_COLLAB-00E5FF?style=flat-square&labelColor=0D1117" height="22"/>
-<img src="https://img.shields.io/badge/●_CAFFEINATED-00E5FF?style=flat-square&labelColor=0D1117" height="22"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════
-     DIVISOR — LINHA DUPLA
-════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/snake.svg" width="100%" height="3"/>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════
-     SEÇÃO 01 — SOBRE (LAYOUT EM CARD ESQUERDA/DIREITA)
-════════════════════════════════════════════════════════════ -->
-
-<table align="center" width="100%">
-<tr>
-<td width="55%" valign="top">
-
 
 **No momento:**
 - 🧠 Estudando arquitetura, clean code e boas práticas
@@ -59,7 +22,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════
-     SEÇÃO 02 — STACK (CARDS VISUAIS)
+     02 — STACK
 ════════════════════════════════════════════════════════════ -->
 
 <h3 align="center"><code>02</code> — STACK</h3>
@@ -81,7 +44,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════
-     SEÇÃO 03 — MÉTRICAS (DASHBOARD)
+     03 — DASHBOARD (STATS)
 ════════════════════════════════════════════════════════════ -->
 
 <h3 align="center"><code>03</code> — DASHBOARD</h3>
@@ -119,7 +82,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════
-     SEÇÃO 04 — ATIVIDADE (SNAKE)
+     04 — ATIVIDADE (SNAKE + GRAPH)
 ════════════════════════════════════════════════════════════ -->
 
 <h3 align="center"><code>04</code> — ATIVIDADE</h3>
@@ -131,16 +94,113 @@
 <br/>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Danimilmil&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true&custom_title=Linha%20do%20tempo%20de%20commits" width="95%"/>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/snake.svg" width="100%" height="3"/>
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════
-     SEÇÃO 05 — CONTATO (BLOCOS LIMPOS)
+     05 — PROJETOS EM DESTAQUE
 ════════════════════════════════════════════════════════════ -->
 
-<h3 align="center"><code>05</code> — CONECTAR</h3>
+<h3 align="center"><code>05</code> — PROJETOS EM DESTAQUE</h3>
+
+<div align="center">
+
+<a href="https://github.com/Danimilmil?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danimilmil&repo=NOME_REPO_1&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/Danimilmil?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danimilmil&repo=NOME_REPO_2&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" />
+</a>
+
+</div>
+
+> 💡 Troque `NOME_REPO_1` e `NOME_REPO_2` pelos nomes reais dos seus dois melhores projetos. Se ainda não tiver, remova esta seção ou use o link "Ver todos os repositórios" abaixo.
+
+<div align="center">
+
+<a href="https://github.com/Danimilmil?tab=repositories">
+  <img src="https://img.shields.io/badge/Ver%20todos%20os%20repositórios-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/snake.svg" width="100%" height="3"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     06 — ROADMAP / ATUALMENTE
+════════════════════════════════════════════════════════════ -->
+
+<h3 align="center"><code>06</code> — ROADMAP</h3>
+
+<div align="center">
+
+| 🎯 Status | 📚 O que estou fazendo |
+|:---:|:---|
+| 🟢 **Agora** | Construindo projetos pessoais & estudando arquitetura |
+| 🟡 **Próximo** | Aprofundar em testes, CI/CD e boas práticas |
+| 🔵 **Futuro** | Contribuir com open source e colaborar em projetos reais |
+| ⚪ **Sempre** | Escrever código que eu mesmo entenda daqui a 6 meses |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/snake.svg" width="100%" height="3"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     07 — FORA DO CÓDIGO
+════════════════════════════════════════════════════════════ -->
+
+<h3 align="center"><code>07</code> — FORA DO CÓDIGO</h3>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">☕<br/><b>Café</b><br/><sub>combustível oficial</sub></td>
+<td align="center" width="33%">🎧<br/><b>Música</b><br/><sub>trilha sonora do foco</sub></td>
+<td align="center" width="33%">🧩<br/><b>Desafios</b><br/><sub>quebrar a cabeça é esporte</sub></td>
+</tr>
+<tr>
+<td align="center">📖<br/><b>Aprender</b><br/><sub>curiosidade crônica</sub></td>
+<td align="center">🎮<br/><b>Games</b><br/><sub>desestressar com estilo</sub></td>
+<td align="center">🌙<br/><b>Night owl</b><br/><sub>código rende à noite</sub></td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/snake.svg" width="100%" height="3"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════
+     08 — CONECTAR
+════════════════════════════════════════════════════════════ -->
+
+<h3 align="center"><code>08</code> — CONECTAR</h3>
 
 <div align="center">
 
@@ -155,6 +215,12 @@
 </a>
 <a href="https://www.instagram.com/SEU_USUARIO/">
   <img src="https://img.shields.io/badge/Instagram-Follow%20me-0D1117?style=for-the-badge&logo=instagram&logoColor=00E5FF" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Danimilmil?tab=followers">
+  <img src="https://img.shields.io/badge/⭐_Dê_uma_estrela_nos_meus_repos-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
 </div>
@@ -173,12 +239,12 @@
 
 <sub><code>código • café • curiosidade</code></sub>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Danimilmil&label=profile+views&color=00E5FF&style=flat-square"/>
+<img src="https://img.shields.io/badge/Atualizado-Outubro%202026-0D1117?style=flat-square&logo=github&logoColor=00E5FF"/>
+
+<br/><br/>
+
+<sub>⚡ Feito com dedicação, curiosidade e boas doses de cafeína.</sub>
 
 </div>
-
-Sou o **Daniel** — gosto de resolver problemas, entender como as coisas funcionam por baixo do capô e transformar ideias em código que funcione de verdade.
-
-**Filosofia rápida:**
