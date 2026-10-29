@@ -99,7 +99,6 @@ Gosto de resolver problemas, entender como as coisas funcionam por baixo do cap�
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00E5FF&height=2&width=100%"/>
 
-<!-- ═══════════════ CONECTAR ═══════════════ -->
 
 <!-- ═══════════════ CONECTAR ═══════════════ -->
 
@@ -110,17 +109,24 @@ Gosto de resolver problemas, entender como as coisas funcionam por baixo do cap�
 
 <div align="center">
 
+<!-- GitHub -->
 <a href="https://github.com/Danimilmil">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" alt="GitHub"/>
 </a>
+
+<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/daniel-dias-37a639375/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" alt="LinkedIn"/>
 </a>
+
+<!-- Gmail -->
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ddias6574@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45" alt="Gmail"/>
 </a>
+
+<!-- Instagram -->
 <a href="https://www.instagram.com/daniels.dias6/">
-  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00E5FF"/>
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="45" alt="Instagram"/>
 </a>
 
 </div>
