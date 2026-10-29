@@ -1,9 +1,18 @@
-<!-- ═══════════════ DANIEL DIAS ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════
+     DANIEL DIAS · GitHub Profile
+     Paleta: #0D1117 (dark) + #00E5FF (cyan)
+════════════════════════════════════════════════════════════ -->
+
+<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:0A4A5C,100:00E5FF&height=180&section=header&text=Daniel%20Dias&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=dev%20%E2%80%A2%20builder%20%E2%80%A2%20learner&descAlignY=64&descSize=16&animation=fadeIn" width="100%"/>
+
 <a href="https://github.com/Danimilmil">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=600&height=70&lines=Daniel+Dias;building+%26+learning;%24+_" alt="Hero"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=520&height=40&lines=building+%26+learning;transformando+ideias+em+c%C3%B3digo;%24+_" alt="typing"/>
 </a>
+
+<br/>
 
 <img src="https://img.shields.io/badge/●_ONLINE-00E5FF?style=flat-square&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/●_OPEN_TO_COLLAB-00E5FF?style=flat-square&labelColor=0D1117"/>
@@ -20,31 +29,38 @@
 
 </div>
 
----
+<!-- ═══════════════ SOBRE ═══════════════ -->
 
-## 👤 Sobre
+## 💫 Sobre
+<sub>quem está por trás do código</sub>
 
 > **Desenvolvedor em construção. Curioso por padrão.**
 
 Gosto de resolver problemas, entender como as coisas funcionam por baixo do capô e transformar ideias em código que funcione de verdade.
 
-- 🧠 Estudando arquitetura, clean code e boas práticas
-- ⚙️ Construindo projetos pessoais e experimentando stacks
-- 🤝 Aberto a colaborações e trocas de ideia
+- 🧠 Estudando **arquitetura, clean code e boas práticas**
+- ⚙️ Construindo **projetos pessoais** e experimentando stacks
+- 🤝 Aberto a **colaborações** e trocas de ideia
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00E5FF&height=2&width=100%"/>
+
+<!-- ═══════════════ STACK ═══════════════ -->
 
 ## 🛠️ Stack
+<sub>ferramentas do dia a dia</sub>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode,figma,linux&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode,figma,linux&theme=dark" height="48"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00E5FF&height=2&width=100%"/>
+
+<!-- ═══════════════ STATS ═══════════════ -->
 
 ## 📊 GitHub Stats
+<sub>números que contam a história</sub>
 
 <div align="center">
 
@@ -57,17 +73,23 @@ Gosto de resolver problemas, entender como as coisas funcionam por baixo do cap�
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00E5FF&height=2&width=100%"/>
+
+<!-- ═══════════════ ATIVIDADE ═══════════════ -->
 
 ## 🐍 Contribuições
+<sub>um commit de cada vez</sub>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Danimilmil/Danimilmil/output/github-snake-dark.svg" width="95%" alt="snake"/>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00E5FF&height=2&width=100%"/>
+
+<!-- ═══════════════ ROADMAP ═══════════════ -->
 
 ## 🚀 Roadmap
+<sub>para onde estou indo</sub>
 
 | 🎯 Status | 📚 O que estou fazendo |
 |:---:|:---|
@@ -76,9 +98,12 @@ Gosto de resolver problemas, entender como as coisas funcionam por baixo do cap�
 | 🔵 **Futuro** | Contribuir com open source e colaborar em projetos reais |
 | ⚪ **Sempre** | Escrever código que eu mesmo entenda daqui a 6 meses |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00E5FF&height=2&width=100%"/>
+
+<!-- ═══════════════ CONECTAR ═══════════════ -->
 
 ## 📫 Conectar
+<sub>vamos trocar ideia</sub>
 
 <div align="center">
 
@@ -97,7 +122,9 @@ Gosto de resolver problemas, entender como as coisas funcionam por baixo do cap�
 
 </div>
 
----
+<!-- ═══════════════ FOOTER ═══════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,40:0A4A5C,100:0D1117&height=120&section=footer" width="100%"/>
 
 <div align="center">
   <sub><code>código • café • curiosidade</code></sub>
