@@ -136,9 +136,6 @@ Gosto de resolver problemas, entender como as coisas funcionam por baixo do cap�
 
 <!-- ═════════════ CITAÇÃO (API) ═════════════ -->
 
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="citacao"/>
-</div>
 
 <br/>
 
