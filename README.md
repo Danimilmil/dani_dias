@@ -107,33 +107,8 @@ Gosto de resolver problemas, entender como as coisas funcionam por baixo do cap�
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Danimilmil&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9&ring_color=00E5FF&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danimilmil&layout=donut&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&langs_count=6" alt="linguagens"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=Danimilmil&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="streak"/>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Danimilmil&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="trofeus"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Danimilmil&bg_color=0D1117&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&area_color=00E5FF&hide_border=true&radius=8" width="100%" alt="atividade"/>
-
-</div>
-
-<br/>
-
-<!-- ═════════════ COBRINHA (opcional, ver snake.yml) ═════════════ -->
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danimilmil/Danimilmil/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danimilmil/Danimilmil/output/github-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/Danimilmil/Danimilmil/output/github-snake-dark.svg" width="100%"/>
-</picture>
 </div>
 
 <br/>
@@ -156,21 +131,6 @@ Gosto de resolver problemas, entender como as coisas funcionam por baixo do cap�
 <td align="center" width="25%">♾️<br/><b>Sempre</b><br/><sub>Código que eu entenda<br/>daqui a 6 meses</sub></td>
 </tr>
 </table>
-
-<br/>
-
-<!-- ═════════════ PROJETOS ═════════════ -->
-
-<h2 align="center">📌 Projetos em destaque</h2>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/Danimilmil/NOME_DO_REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Danimilmil&repo=NOME_DO_REPO_1&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9" alt="projeto 1"/></a>
-<a href="https://github.com/Danimilmil/NOME_DO_REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Danimilmil&repo=NOME_DO_REPO_2&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9" alt="projeto 2"/></a>
-
-</div>
 
 <br/>
 
